@@ -32,6 +32,8 @@ HOST-SUFFIX,hygge.plus,Emby
 HOST-SUFFIX,kakoemby.xyz
 HOST-SUFFIX,v.20120714.xyz
 HOST-SUFFIX,marmot.20120714.xyz
+HOST-SUFFIX,scf.poloemby.xyz
+HOST-SUFFIX,sf.poloemby.xyz
 HOST-SUFFIX,jellyfin.xeton.dev,Emby
 HOST-SUFFIX,line.emby.men,Emby
 HOST-SUFFIX,mickeycloud.com,Emby
@@ -45,4 +47,3 @@ HOST-KEYWORD,carlos.trade,Emby
 HOST-KEYWORD,jmsooo,Emby
 HOST-KEYWORD,odysseyplus,Emby
 HOST-KEYWORD,imetyou,Emby
-HOST-KEYWORD,poloemby,Emby
