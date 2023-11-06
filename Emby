@@ -31,11 +31,12 @@ HOST-SUFFIX,emby.xeton.dev,Emby
 HOST-SUFFIX,emby.ytoo.li,Emby
 HOST-SUFFIX,embyserver.ga,Emby
 HOST-SUFFIX,hygge.plus,Emby
-HOST-SUFFIX,kakoemby.xyz
-HOST-SUFFIX,v.20120714.xyz
-HOST-SUFFIX,marmot.20120714.xyz
-HOST-SUFFIX,scf.poloemby.xyz
-HOST-SUFFIX,sf.poloemby.xyz
+HOST-SUFFIX,kakoemby.xyz,Emby
+HOST-SUFFIX,v.20120714.xyz,Emby
+HOST-SUFFIX,marmot.20120714.xyz,Emby
+hOST-SUFFIX,emby3.mcjoker.xyz,Emby
+HOST-SUFFIX,scf.poloemby.xyz,Emby
+HOST-SUFFIX,sf.poloemby.xyz,Emby
 HOST-SUFFIX,jellyfin.xeton.dev,Emby
 HOST-SUFFIX,line.emby.men,Emby
 HOST-SUFFIX,mickeycloud.com,Emby
