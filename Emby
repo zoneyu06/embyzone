@@ -37,7 +37,6 @@ HOST-SUFFIX,marmot.20120714.xyz,Emby
 hOST-SUFFIX,emby3.mcjoker.xyz,Emby
 HOST-SUFFIX,scf.poloemby.xyz,Emby
 HOST-SUFFIX,sf.poloemby.xyz,Emby
-HOST-SUFFIX,emby.misakaf.org,Emby
 HOST-SUFFIX,140.238.6.215,Emby
 HOST-SUFFIX,jellyfin.xeton.dev,Emby
 HOST-SUFFIX,line.emby.men,Emby
@@ -47,6 +46,7 @@ HOST-SUFFIX,ntt1.jmsooo.com,Emby
 HOST-SUFFIX,plusmedia.site,Emby
 HOST-SUFFIX,pornemby.club,Emby
 HOST-SUFFIX,servers.xeton.dev,Emby
+HOST-SUFFIX,emby.misakaf.org,Emby
 HOST-KEYWORD,emby.wtf,Emby
 HOST-KEYWORD,carlos.trade,Emby
 HOST-KEYWORD,jmsooo,Emby
