@@ -52,8 +52,8 @@ DOMAIN-SUFFIX,plusmedia.site,Emby
 DOMAIN-SUFFIX,pornemby.club,Emby
 DOMAIN-SUFFIX,servers.xeton.dev,Emby
 DOMAIN-SUFFIX,emby.misakaf.org,Emby
-HOST-KEYWORD,emby.wtf,Emby
-HOST-KEYWORD,carlos.trade,Emby
-HOST-KEYWORD,jmsooo,Emby
-HOST-KEYWORD,odysseyplus,Emby
-HOST-KEYWORD,imetyou,Emby
+DOMAIN-KEYWORD,emby.wtf,Emby
+DOMAIN-KEYWORD,carlos.trade,Emby
+DOMAIN-KEYWORD,jmsooo,Emby
+DOMAIN-KEYWORD,odysseyplus,Emby
+DOMAIN-KEYWORD,imetyou,Emby
